@@ -1,7 +1,7 @@
-# USC EE569 Homework Assignments
-# Date: Feb - Mar, 2017
-# Name: Xuejing Lei
-# Email: xjlei1117@gmail.com
+USC EE569 Homework Assignments
+Date: Feb - Mar, 2017
+Name: Xuejing Lei
+Email: xjlei1117@gmail.com
 
 Source code:
   Makefile:
